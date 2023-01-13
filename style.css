@@ -1,0 +1,44 @@
+center
+{
+    background-color:rgb(34, 32, 32);
+}
+.nota
+{
+    font-size:30px;
+    color:rgb(0, 253, 127);
+    box-shadow:5px 5px 5px rgb(0, 253, 127);
+}
+body
+{
+    background-color:rgb(0, 0, 0);
+}
+.cosa_rara
+{
+    background-color:rgb(43, 43, 43);
+    color:rgb(0, 253, 127);
+    width:100%;
+    box-shadow:5px 5px 5px rgb(0, 253, 127);
+}
+.popo
+{
+    width:100%;
+    background-color:rgb(24, 24, 24);
+    position:fixed;
+    text-align:center;
+    bottom:0;
+    color:rgb(25, 255, 140);
+}
+canvas
+{
+    border:5px solid rgb(0, 253, 127);
+    box-shadow:5px 5px 5px 5px  rgb(0, 253, 127);
+}
+.rady
+{
+  background-color:rgb(34, 32, 32);
+}
+#cuadro_cuadrado_lado
+{
+    color: rgb(0, 255, 98);
+    font-size:25px;
+}
